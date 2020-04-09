@@ -1,0 +1,9 @@
+{
+  "pluginsFile": false,
+  "supportFile": "node_modules/cypress-react-unit-test/support",
+  "testFiles": "test*.js",
+  "experimentalComponentTesting": true,
+  "componentFolder": "src",
+  "viewportWidth": 200,
+  "viewportHeight": 250
+}

@@ -1,0 +1,22 @@
+{
+  "name": "test-d3-react-gauge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.14"
+  },
+  "dependencies": {
+    "d3-format": "1.4.4",
+    "d3-scale": "3.2.1",
+    "d3-shape": "1.3.7",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
