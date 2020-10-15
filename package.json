@@ -1,16 +1,21 @@
 {
   "name": "test-d3-react-gauge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing D3 component using Cypress",
   "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress-expect run --passing 3",
+    "update:badges": "update-badge cypress cypress-react-unit-test"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.14"
+    "cypress": "5.4.0",
+    "cypress-expect": "2.1.2",
+    "cypress-react-unit-test": "4.16.0",
+    "dependency-version-badge": "1.5.0"
   },
   "dependencies": {
     "d3-format": "1.4.4",
