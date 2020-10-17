@@ -1,6 +1,6 @@
 # test-d3-react-gauge
 
-![cypress version](https://img.shields.io/badge/cypress-5.4.0-brightgreen) ![cypress-react-unit-test version](https://img.shields.io/badge/cypress--react--unit--test-4.16.1-brightgreen)
+![cypress version](https://img.shields.io/badge/cypress-5.4.0-brightgreen) ![cypress-react-unit-test version](https://img.shields.io/badge/cypress--react--unit--test-4.16.2-brightgreen)
 
 Testing gauges explained in this visually stunning blog post [Creating a Gauge in React](https://wattenberger.com/blog/gauge)
 
